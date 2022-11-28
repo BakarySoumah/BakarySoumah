@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakarysoumah&label=Profile%20views&color=0e75b6&style=flat" alt="bakarysoumah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@samyh_bk" target="blank"><img src="https://img.shields.io/twitter/follow/@samyh_bk?logo=twitter&style=for-the-badge" alt="@samyh_bk" /></a> </p>
-
 <img align="right" alt="dev" width="400"  src="https://img.freepik.com/vecteurs-libre/site-web-developpement-web-ingenierie-programmation-codage-ecrans-interface-realite-augmentee-logiciel-programmation-ingenieur-projet-developpeur-conception-application-illustration-dessin-anime_107791-3863.jpg"><br>
 
 - 🌍 I live and work in **Dakar, Sénégal SN**
@@ -24,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left"> <a href="https://twitter.com/@samyh_bk" target="blank"><img src="https://img.shields.io/twitter/follow/@samyh_bk?logo=twitter&style=for-the-badge" alt="@samyh_bk" /></a> </p>
 <a href="https://twitter.com/@Samyh__Bk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samyh_bk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bakariba-soumah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakariba soumah" height="30" width="40" /></a>
 
