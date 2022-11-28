@@ -11,7 +11,7 @@
 
 - 🌍 I live and work in **Dakar, Sénégal SN**
 
-- 🌱 I’m currently learning **NodeJs, ReactJs**
+- 🌱 I’m currently learning **Javascript, NodeJs, ReactJs**
 
 - 👯 I’m looking to collaborate on **All developers**
 
